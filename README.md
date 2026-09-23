@@ -97,15 +97,14 @@ Exécuter la classe `test.Test` (clic droit → *Run File*). Au premier lancemen
 
 ## Exemple d'utilisation
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050352.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-23 233805.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050412.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-23 233847.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050431.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-23 233936.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050441.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-23 233948.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051122.png" />
 
 
 
